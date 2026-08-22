@@ -1,3 +1,7 @@
 {
-  "channelId": "120363405564507511@newsletter"
+  "newsletterIds": [
+    "120363405564507511@newsletter",
+    "120363411594691890@newsletter",
+    "120363412100126571@newsletter"
+  ]
 }
